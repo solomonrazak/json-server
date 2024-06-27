@@ -38,4 +38,4 @@ const UseFetch = (url: string): useFetchResults => {
     return {data, isLoading, error}
 }
 
-export default UseFetch
+export default UseFetch;
